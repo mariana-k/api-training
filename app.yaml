@@ -1,6 +1,0 @@
-services:
-  - name: goldfish-app
-    envs:
-    - key: MESSAGE_STYLE
-      scope: BUILD_TIME
-      value: uppercase
